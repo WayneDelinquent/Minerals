@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6582762354422881782
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6582762354422881780}
+  - component: {fileID: 6582762354422881783}
+  m_Layer: 0
+  m_Name: LevelController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6582762354422881780
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6582762354422881782}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 20.53311, y: -588.7969, z: 320.05835}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6582762354422881783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6582762354422881782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0086a4566161433a89f30a3f6e98694, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levels:
+  - {fileID: 9143676809524797478, guid: 91a9193f6f20b4efea04ea36fd305a9e, type: 3}
+  - {fileID: 9143676809524797478, guid: 46783787ca10345b28833ec69f8f6f4b, type: 3}
+  - {fileID: 9143676809524797478, guid: 5ec637d39a3e44d5297bafd16eb348cd, type: 3}
+  buildingsPerLevel: 5
+  _dexBracketCeiling: 0a0000001900000064000000fa000000
+  _dexBracketProportion:
+  - 0.5
+  - 0.25
+  - 0.1
+  - 0.05
+  _towersUnderConstruction: []
+  _selectableGems:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _placeGemsButton: {fileID: 0}
+  _stonePrefab: {fileID: 6450911691160024666, guid: c404fe3034ae9497f9e66a7a9b3d2eac, type: 3}
+  _gemSelectorPanel: {fileID: 0}
+  _spawnPoint: {fileID: 0}
+  _firstWaypoint: {fileID: 0}
+  compoundTowers:
+  - {fileID: 5454496257251217495, guid: 45979b661e0134c45b6fc7e0de13aed7, type: 3}
+  compoundTowerUI: {fileID: 0}
+  selectComponents: {fileID: 0}

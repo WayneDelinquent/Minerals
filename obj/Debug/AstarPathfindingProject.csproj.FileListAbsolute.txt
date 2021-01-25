@@ -1,0 +1,2 @@
+/Users/waynesteedman/Development/Unity/Minerals3D/obj/Debug/AstarPathfindingProject.csprojAssemblyReference.cache
+/Users/waynesteedman/Development/Unity/Minerals3D/obj/Debug/AstarPathfindingProject.csproj.CoreCompileInputs.cache

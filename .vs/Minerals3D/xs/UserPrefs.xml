@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{349035EB-B764-B63F-40FB-7EE23297175F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BuildManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Attributes.cs" Line="71" Column="14" />
+      <File FileName="Assets/Scripts/Projectile.cs" />
+      <File FileName="Assets/Scripts/Enemy.cs" />
+      <File FileName="Assets/Scripts/SpecialAttack.cs" />
+      <File FileName="Assets/Scripts/StatusEffects.cs" />
+      <File FileName="Assets/Scripts/Tower.cs" />
+      <File FileName="Assets/Scripts/LevelController.cs" />
+      <File FileName="Assets/Scripts/SelectComponents.cs" />
+      <File FileName="Assets/Scripts/GemSelector.cs" />
+      <File FileName="Assets/Scripts/BuildManager.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Minerals3D" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="BuildManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AstarPathfindingProjectEditor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2f28a544-e27b-469a-a97f-998f42a544d0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
